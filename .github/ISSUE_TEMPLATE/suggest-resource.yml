@@ -1,0 +1,35 @@
+name: Suggest a resource
+about: Propose a Fable 5.2 project, guide, prompt, or showcase.
+title: '[Resource] '
+labels: ['resource suggestion', 'needs review']
+body:
+  - type: markdown
+    attributes:
+      value: Thank you for helping improve the collection. Please link to the original source where possible.
+  - type: input
+    id: url
+    attributes:
+      label: Original URL
+      placeholder: https://github.com/owner/project
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Creator or maintainer
+    validations:
+      required: true
+  - type: textarea
+    id: relevance
+    attributes:
+      label: Fable 5.2 connection and practical value
+      description: Link to evidence, a prompt, demo, code, or documentation; explain why it belongs here.
+    validations:
+      required: true
+  - type: textarea
+    id: verification
+    attributes:
+      label: Verification and disclosure
+      description: What did you personally test? Include dates, limitations, and any affiliation. If claiming popularity, provide a metric and timestamp.
+    validations:
+      required: true

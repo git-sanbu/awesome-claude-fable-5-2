@@ -1,0 +1,23 @@
+name: Report a correction or broken link
+about: Help us fix an inaccurate, outdated, or inaccessible entry.
+title: '[Correction] '
+labels: ['correction', 'needs review']
+body:
+  - type: input
+    id: entry
+    attributes:
+      label: Repository page or entry
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What needs correcting?
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Supporting sources or proposed correction
+    validations:
+      required: true
