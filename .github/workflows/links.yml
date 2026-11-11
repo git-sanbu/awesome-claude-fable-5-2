@@ -1,0 +1,19 @@
+name: Link check
+
+on:
+  schedule:
+    - cron: "23 3 * * 1" # weekly, Monday 03:23 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  markdown-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gaurav-nelson/github-action-markdown-link-check@v1
+        with:
+          use-quiet-mode: "yes"
+          config-file: .markdown-link-check.json

@@ -2,7 +2,7 @@
 
 [Resource directory](../README.md) / [GitHub projects](../projects.md) / HTML Files
 
-[Claude-Fable-5.2-HTML-Files](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files) is a community collection described by its maintainer as HTML visual studies with screenshots and original prompts. It had **66 GitHub stars in the 2026-11-11 search snapshot**; its content and star count may change.
+[Claude-Fable-5.2-HTML-Files](https://github.com/MiaAI-Lab/Claude-Fable-5.2-HTML-Files) is a community collection described by its maintainer as HTML visual studies with screenshots and original prompts. It had **68 GitHub stars in the 2026-11-11 API refresh**; its content and star count may change.
 
 ## What to look for
 
