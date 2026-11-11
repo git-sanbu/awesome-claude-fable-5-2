@@ -16,8 +16,8 @@
 - [官方资料汇总](docs/official-resources.md)：Anthropic 官方链接与模型要点（发布、定价、API 变更、安全性），2026-11-11 核查快照
 - [资料目录](docs/README.md)：按用途查找官方资料、实践、项目与案例
 - [最佳实践与提示词模板](docs/best-practices.md)：目标、约束、验收与复现；新增 Anthropic 官方提示建议摘要（effort 校准、提前停止、审批表述、子代理等），并链接官方资料页
-- [GitHub 项目目录](docs/projects.md)：项目用途、来源和星标快照；收录项目已扩充至 21 个，星标为 2026-11-11 GitHub API 快照
-- [X 案例](docs/x-showcases.md)：原帖、创作者与提示词来源；扩充至 16 条，主体来自 yihui-dev 视频目录、另 2 条来自网页搜索，排序为收集时判断而非排名
+- [GitHub 项目目录](docs/projects.md)：项目用途、来源和星标快照；收录项目已扩充至 48 个（含 X 爆款溯源与可玩 demo 板块），星标为 2026-11-11 GitHub API 快照
+- [X 案例](docs/x-showcases.md)：原帖、创作者与提示词来源；扩充至 16 条，主体来自 yihui-dev 视频目录、另 3 条来自网页搜索，排序为收集时判断而非排名
 - [用例导航](README.md#use-cases)（英文）：按"想做游戏 / 3D / 视频 / 视觉设计 / 系统原型"查找对应项目
 - [参与贡献](CONTRIBUTING.md)：提交链接、修正失效信息
 
