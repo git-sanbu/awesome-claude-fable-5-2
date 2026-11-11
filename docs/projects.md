@@ -1,5 +1,7 @@
 # Claude Fable 5.2 GitHub projects
 
+[Home](../README.md) · [Resource directory](README.md) · [Best practices](best-practices.md) · [X showcases](x-showcases.md)
+
 A curated snapshot from GitHub repository search and project descriptions on **2026-11-11**. Stars are point-in-time counts, not growth rates; listed functionality and model attribution are from maintainers and were not independently tested. Inclusion does not imply an audit or endorsement.
 
 | Project | Stars | Category | Why it is useful |
@@ -17,3 +19,7 @@ A curated snapshot from GitHub repository search and project descriptions on **2
 | [Spectra](https://github.com/Seawolf0/Spectra) | 2 | Simulation | Browser-based optics and spectral rendering playground. |
 
 Star counts can change; GitHub search ordering and results also change. Review each project's license and safety before using its code. To propose an addition, provide a direct link, the Fable connection, and the artifact or evidence that makes it useful.
+
+## Project guides
+
+Explore [nativeprompt](project-guides/nativeprompt.md), [oh-my-fable](project-guides/oh-my-fable.md), and [Claude Fable 5.2 HTML Files](project-guides/html-files.md) for context, sources, and suggested uses.

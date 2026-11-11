@@ -2,6 +2,7 @@
 
 这里收集 Claude Fable 5.2 的官方资料、提示词实践、GitHub 项目和 X 社区案例，适合寻找可追溯的学习资料与创作灵感。本仓库由社区独立维护，与 Anthropic 无关联。
 
+- [资料目录](docs/README.md)：按用途查找官方资料、实践、项目与案例
 - [英文主页](README.md)：精选入口和收录标准
 - [最佳实践与提示词模板](docs/best-practices.md)：目标、约束、验收与复现
 - [GitHub 项目目录](docs/projects.md)：项目用途、来源和星标快照

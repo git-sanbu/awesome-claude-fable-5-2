@@ -1,5 +1,7 @@
 # Claude Fable 5.2 best practices and prompt templates
 
+[Home](../README.md) · [Resource directory](README.md) · [GitHub projects](projects.md) · [X showcases](x-showcases.md)
+
 These are practical editorial recommendations for working with Claude and coding agents, not claims of measured Fable-specific performance. Start with [Anthropic's Fable 5.2 prompting guide](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2) and [official launch](https://www.anthropic.com/claude-fable-and-mythos-5-2). Consult current documentation for supported API parameters and model IDs.
 
 ## A repeatable workflow

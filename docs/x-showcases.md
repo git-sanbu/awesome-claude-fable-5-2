@@ -1,5 +1,7 @@
 # Claude Fable 5.2 examples shared on X
 
+[Home](../README.md) · [Resource directory](README.md) · [GitHub projects](projects.md) · [Best practices](best-practices.md)
+
 These examples were located through [awesome-fable5-2-videos](https://github.com/yihui-dev/awesome-fable5-2-videos). The original X posts and engagement counts were not independently accessible or verified during this research on 2026-11-11. Descriptions and prompts below are attributed to the catalogue and creators; model use, workflow, and results have not been reproduced. No claim of viral ranking is made.
 
 | Creator and original post | What the catalogue reports | Prompt / further evidence |

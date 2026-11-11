@@ -2,7 +2,7 @@
 
 A curated, source-linked guide to **Claude Fable 5.2**: official documentation, practical prompting patterns, GitHub projects, and community demos shared on X. Maintained independently; not affiliated with Anthropic.
 
-[简体中文](README.zh-CN.md) · [Best practices](docs/best-practices.md) · [GitHub projects](docs/projects.md) · [X showcases](docs/x-showcases.md) · [Contribute](CONTRIBUTING.md)
+[简体中文](README.zh-CN.md) · [Resource directory](docs/README.md) · [Best practices](docs/best-practices.md) · [GitHub projects](docs/projects.md) · [X showcases](docs/x-showcases.md) · [Contribute](CONTRIBUTING.md)
 
 **Last researched: 2026-11-11.** Community claims and demos have not been independently reproduced; stars are snapshots, not proof of trending growth. Availability, model names and pricing can change: consult Anthropic for current details.
 
@@ -12,6 +12,10 @@ A curated, source-linked guide to **Claude Fable 5.2**: official documentation, 
 2. [Prompting Claude Fable 5.2](https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-fable-5-2) — official prompting guidance.
 3. [Our practical workflow and reusable prompts](docs/best-practices.md) — scope work, define acceptance checks, and verify outputs.
 4. [Browse projects](docs/projects.md) or [community showcases](docs/x-showcases.md) for real examples and source links.
+
+## Explore by topic
+
+Browse the [resource directory](docs/README.md), including guides to [nativeprompt](docs/project-guides/nativeprompt.md), [oh-my-fable](docs/project-guides/oh-my-fable.md), and [Claude Fable 5.2 HTML Files](docs/project-guides/html-files.md). For reusable Claude Code and creative coding prompts, start with [best practices](docs/best-practices.md).
 
 ## Featured GitHub projects
 
