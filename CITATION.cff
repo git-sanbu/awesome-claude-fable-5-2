@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this collection, please cite the repository and link to the relevant original sources."
+title: "Awesome Claude Fable 5.2: Documentation, Prompting, Projects and Showcases"
+authors:
+  - name: git-sanbu
+repository-code: "https://github.com/git-sanbu/awesome-claude-fable-5-2"
+url: "https://github.com/git-sanbu/awesome-claude-fable-5-2"
+license: CC-BY-4.0
+abstract: "An independent, source-linked directory of Claude Fable 5.2 official resources, prompting practices, GitHub projects and community showcases."

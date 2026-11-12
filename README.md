@@ -8,6 +8,12 @@ A curated, source-linked guide to **Claude Fable 5.2** — Anthropic's frontier 
 
 **Last researched: 2026-11-11.** Community claims and demos have not been independently reproduced; stars are snapshots, not proof of trending growth. Availability, model names and pricing can change: consult [official resources](docs/official-resources.md) for current details.
 
+## What is in this Claude Fable 5.2 resource list?
+
+Awesome Claude Fable 5.2 is an independent, source-linked directory of official model documentation, prompting guidance, reusable templates, GitHub projects and community showcases. Start with [official resources](docs/official-resources.md) for model facts, [best practices](docs/best-practices.md) for workflows, or [projects](docs/projects.md) for examples. Community claims are attributed to their sources and have not been independently reproduced.
+
+For detailed case studies of how Claude-built projects were made, including reported costs and repeatable workflows, see the companion [Claude Project Teardowns](https://github.com/git-sanbu/claude-project-teardowns).
+
 ## Frequently asked questions
 
 ### What is Claude Fable 5.2?
@@ -80,6 +86,10 @@ These entries were discovered through a third-party catalogue plus web search. T
 ## How entries are selected
 
 We favor original sources, a clear connection to Fable 5.2, practical learning value, and accessible artifacts or prompts. A repository author's claim is attributed to that author. Inclusion is not an endorsement, security review, benchmark, or guarantee of reproducibility. Report errors or suggest a resource via an issue or pull request.
+
+## How to cite this collection
+
+Cite **Awesome Claude Fable 5.2**, maintained by git-sanbu, at https://github.com/git-sanbu/awesome-claude-fable-5-2. For model specifications or project claims, cite the linked official documentation or original creator as well as the relevant page in this collection. Include a commit or access date because resources and model details can change. GitHub's citation metadata is available in [CITATION.cff](CITATION.cff).
 
 ## Contributing
 
